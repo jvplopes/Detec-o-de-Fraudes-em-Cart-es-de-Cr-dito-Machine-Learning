@@ -14,4 +14,4 @@ Nesse contexto, os bancos investem em tecnologia para identificar quando uma tra
 
 Neste artigo, usaremos a *Machine Learning* para identificar as transações bancárias fraudulentas.
 
-Confira o projeto completo [aqui](https://github.com/jvplopes/Trade-Russia/blob/main/Russia.ipynb)
+Confira o projeto completo [aqui](https://github.com/jvplopes/Detec-o-de-Fraudes-em-Cart-es-de-Cr-dito-Machine-Learning/blob/main/Fraude_banc%C3%A1ria_corrigido.ipynb)
