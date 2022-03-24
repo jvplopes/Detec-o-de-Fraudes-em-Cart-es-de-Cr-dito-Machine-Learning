@@ -1,5 +1,7 @@
 [![author](https://img.shields.io/badge/author-jvplopes-red.svg)](https://www.linkedin.com/in/joao-vitor-p-lopes/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/jvplopes/data_science/issues)
 
+<img alt="Colaboratory logo" width="100%" src="https://drive.google.com/uc?export=view&id=1v4WLCnZqib85IpslKTaAey5alI3U9aqv">
+
 # Detecção de Fraudes em Cartões de Crédito | Machine Learning
 
 Durante a pandemia o **e-commerce brasileiro cresceu 41%** e **ganhou 13 milhões de novos consumidores**. Um aumento de 29% em relação ao ano de 2019 ([leia mais](https://exame.com/pme/13-milhoes-de-brasileiros-fizeram-primeira-compra-pela-internet-em-2020/)).
